@@ -19,7 +19,7 @@
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BitGhost81)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitGhost81&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitGhost81&layout=compact&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
