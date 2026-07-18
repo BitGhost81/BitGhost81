@@ -19,7 +19,7 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BitGhost81)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitGhost81&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BitGhost81)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
