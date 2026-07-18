@@ -19,6 +19,8 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BitGhost81)](https://github.com/stats-organization/github-stats-extended)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitGhost81&layout=compact&theme=tokyonight)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nufayl-nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nufayl-nasir" height="30" width="40" /></a>
