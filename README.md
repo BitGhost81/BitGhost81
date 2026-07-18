@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nufayl Nasir Khan</h1>
+<h1 align="center">Hi, I'm Nufayl Nasir Khan</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | React | AI Enthusiast</h3>
 
 - 🔭 I’m currently working on [InterviewShield](https://github.com/BitGhost81/InterviewShield)
